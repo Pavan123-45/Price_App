@@ -1,0 +1,30 @@
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+.highlight {
+  border:2px solid rgb(0,123,255);
+ }
+ .post{
+  border: 2px solid rgb(183, 178, 178);
+  margin-bottom: 10px;
+  padding: 5px;
+  border-radius: 8px;
+  
+ }
